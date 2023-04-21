@@ -1,0 +1,64 @@
+# General
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pidb
+*.svclog
+*.scc
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Visual Studio Code
+.code-workspace
+.settings/
+.launch/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+**/[Oo]bj/
+**/[Bb]in/
+**/[Ww]in/
+**/[Ll]inux/
+**/[Mm]acos/
+**/netcoreapp**/
+
+# Dotnet and NuGet
+project.lock.json
+.project.json.swp
+.nuget.props
+.nuget.targets
+**/packages/*
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# JustCode is a .NET coding add-in
+.JustCode
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# SpecFlow is a .NET coding add-in
+.specflow/
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Web development
+wwwroot/
+*.sass.cache
+
+# Unit Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Azure Functions local.settings.json
+local.settings.json
+
+# .NET Core specific
+*.runtimeconfig.dev.json
