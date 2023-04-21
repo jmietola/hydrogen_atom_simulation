@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "BVn9JPFHI3bpVV+vTSzUnU6Ym+4WJ4CDGX/sgFAok7s=",
+  "Source": "QSharpApi",
+  "BasePath": "_content/QSharpApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QSharpApi\\wwwroot",
+      "Source": "QSharpApi",
+      "ContentRoot": "C:\\Users\\jouni\\Desktop\\Q\\hydrogen_atom_simulation\\QSharpApi\\wwwroot\\",
+      "BasePath": "_content/QSharpApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jouni\\Desktop\\Q\\hydrogen_atom_simulation\\QSharpApi\\wwwroot\\index4.html",
+      "SourceId": "QSharpApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jouni\\Desktop\\Q\\hydrogen_atom_simulation\\QSharpApi\\wwwroot\\",
+      "BasePath": "_content/QSharpApi",
+      "RelativePath": "index4.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index4.html"
+    }
+  ]
+}

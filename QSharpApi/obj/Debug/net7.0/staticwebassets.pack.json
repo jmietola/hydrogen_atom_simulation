@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jouni\\Desktop\\Q\\hydrogen_atom_simulation\\QSharpApi\\wwwroot\\index4.html",
+      "PackagePath": "staticwebassets\\index4.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.QSharpApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.QSharpApi.props",
+      "PackagePath": "build\\QSharpApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.QSharpApi.props",
+      "PackagePath": "buildMultiTargeting\\QSharpApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.QSharpApi.props",
+      "PackagePath": "buildTransitive\\QSharpApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
